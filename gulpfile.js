@@ -1,6 +1,6 @@
 (function() {
     var del = require('del');
-    var autoprefixer = require('autoprefixer-core');
+    var autoprefixer = require('autoprefixer');
     var gulp = require('gulp');
     var less = require('gulp-less');
     var postcss = require('gulp-postcss');
