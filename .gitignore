@@ -1,0 +1,12 @@
+## Ignore temporary files and packages
+
+# Packages
+bower_components/
+node_modules/
+
+# Build folder
+dest/*
+
+# Custom Ignores
+.sass-cache
+
