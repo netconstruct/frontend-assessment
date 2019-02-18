@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACI,iCAAiC;EACjC,gBAAgB;EAChB,oBAAoB,EAHlB","file":"main.css","sourcesContent":["body {\r\n    font-family: 'Arial', sans-serif;\r\n    font-size: 16px;\r\n    font-weight: normal;\r\n}"],"sourceRoot":"/source/"}
